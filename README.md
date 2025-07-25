@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ash10000000000.
+- 👋 I’m @ash10000000000.
 - 👀 I’m interested in astrophysics.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on  crazy crazy projects...
