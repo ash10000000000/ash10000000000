@@ -15,21 +15,16 @@ Software Developer with a strong focus on building reliable, scalable, and well-
 
 ## Technical Skills
 
-**Languages**  
-Java, Kotlin, Python, C  
+**Languages** Java, Kotlin, Python, C  
 
-**Mobile Development**  
-Android (Native), React Native  
+**Mobile Development** Android (Native), React Native  
 
-**Backend & Data**  
-REST APIs, Firebase, NoSQL concepts  
+**Backend & Data** REST APIs, Firebase, NoSQL concepts  
 
-**Applied AI**  
-Natural Language Processing fundamentals  
+**Applied AI** Natural Language Processing fundamentals  
 Custom tokenizers and domain-specific chatbot systems  
 
-**Tools**  
-Git, GitHub, Linux, Android Studio, VS Code  
+**Tools** Git, GitHub, Linux, Android Studio, VS Code  
 
 ---
 
@@ -43,9 +38,9 @@ Git, GitHub, Linux, Android Studio, VS Code
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash10000000000&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ash10000000000&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash10000000000&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ash10000000000&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
