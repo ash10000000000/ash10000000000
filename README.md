@@ -47,4 +47,4 @@ Custom tokenizers and domain-specific chatbot systems
 ## Contact
 
 Open to meaningful collaborations and technical discussions.  
-You can reach me via GitHub.
+You can reach me via GitHub...
