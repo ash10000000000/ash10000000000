@@ -1,6 +1,6 @@
 # Astitva Singh
 
-Software Developer with a strong focus on building reliable, scalable, and well-structured applications. I enjoy working close to fundamentals and prefer clean architecture over shortcuts.
+Software Developer with a strong focus on building reliable, scalable, and well-structured applications. I enjoy working close to fundamentals and prefer clean architecture over shortcuts. 
 
 ---
 
